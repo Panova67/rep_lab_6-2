@@ -2,6 +2,11 @@
 #include <cmath>
 using namespace std;
 
+//master-1:
+//master-2:
+//master-3:
+//master-4:
+
 int main() {
     double a, b, c, discriminant, root1, root2;
     cout << "Enter coefficients a, b and c: ";
@@ -24,6 +29,10 @@ int main() {
         cout << "Root 2 = (-" << b << " - i" << sqrt(-discriminant) << ") / " << 2*a << endl;
     }
 
+//second-1:
+//second-2:
+//second-3:
+//second-4:
 char op;
     double num1, num2;
     cout << "Enter operator either + or - or * or /: ";
@@ -50,3 +59,7 @@ char op;
 
     return 0;
 }
+//third-1:
+//third-2:
+//third-3:
+//third-4:
